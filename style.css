@@ -1,0 +1,152 @@
+		*{
+			margin:0;
+			padding:0;
+			box-sizing:border-box;
+         }
+		 section{
+			 display:flex;
+			 margin:170px 250px;
+		 }
+		 #box{
+				background-color:white;
+				margin:auto;
+				width:350px;
+			    border:8px solid #ff0080;
+				border-radius:20px;
+				text-align:center;
+		 }
+		 #img1{
+			 width:200px;
+			 height:200px;
+			 margin-top:20px;
+			 padding-left:10px;
+		 }
+		#row1{
+			display:flex;
+			margin-top:20px
+		}
+		.left {
+			display:flex;
+			align-items:center;
+		}
+		.left i{
+			margin-left:20px;
+			color:green;
+		}
+		.left h4{
+			display:flex;
+			padding-left:20px;
+			
+		}
+		.right p{
+			padding-left:140px;
+			color:#c0c0c0;
+		}
+		.right h3{
+			padding-left:140px;
+		}
+		#row3{
+			background-color:#ff0080;
+			width:50%;
+			height:100px;
+			
+		}
+		#bottom{
+		    display:flex;
+			align-items:center;
+		}
+		#row3 img{
+			width:40px;
+			height:40px;
+			border-radius:50%;
+			border:2px solid #f7f7f7;
+			
+		}
+		#row3 h4{
+			color:#f7f7f7;
+			margin-top:20px;
+			padding-bottom:20px;
+			padding-right:50px
+			
+		}
+		#bottom a{
+				padding:15px;
+				text-decoration:none;
+				background-color:#007FFF;
+				color:white;
+				margin-left:30px;
+				margin-top:30px;
+				border-radius:10px;
+				}
+		/* box 2		 */
+		 #box2{
+				background-color:white;
+				margin:auto;
+				width:350px;
+			    border:8px solid #007FFF;
+				border-radius:20px;
+				text-align:center;
+		 }
+		 #img2{
+			 width:200px;
+			 height:200px;
+			 margin-top:20px;
+			 padding-left:40px;
+		 }
+		#row2{
+			display:flex;
+			margin-top:20px
+		}
+		.left1 {
+			display:flex;
+			align-items:center;
+		}
+		.left1 i{
+			margin-left:20px;
+			color:green;
+		}
+		.left1 h4{
+			display:flex;
+			padding-left:20px;
+			
+		}
+		.right1 p{
+			padding-left:110px;
+			color:#c0c0c0;
+		}
+		.right1 h3{
+			padding-left:110px;
+		}
+		#lastrow{
+			background-color:#007FFF;
+			width:50%;
+			height:100px;
+			
+		}
+		#bottom1{
+		    display:flex;
+			align-items:center;
+		}
+		#lastrow img{
+			width:40px;
+			height:40px;
+			border-radius:50%;
+			border:2px solid #f7f7f7;
+			
+		}
+		#lastrow h4{
+			color:#f7f7f7;
+			margin-top:20px;
+			padding-bottom:20px;
+			padding-right:50px
+			
+		}
+		#bottom1 a{
+				padding:15px;
+				text-decoration:none;
+				background-color:#007FFF;
+				color:white;
+				margin-left:30px;
+				margin-top:30px;
+				border-radius:10px;
+				}
